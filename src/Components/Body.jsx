@@ -2,7 +2,7 @@ import { Component } from 'react';
 import { Button } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import PropTypes from 'prop-types';
-//TODO import './Body.css'
+import '../Styling/Body.css';
 
 //componente en forma de clase
 class Body extends Component {

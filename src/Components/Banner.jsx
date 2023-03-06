@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from 'prop-types';
-//TODO import './Banner.css'
+import '../Styling/Banner.css'
 
 //Componente tipo Función
 function Banner({texto}){
