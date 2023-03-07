@@ -20,7 +20,7 @@ function App() {
           <Header/>
           <Banner texto='Texto 2'/>
           <Body practica='Texto 3' temas={arreglo}/>
-          <Footer> {<p>Texto 4</p>} </Footer>
+          <Footer etiquetahtml={<p>Texto 4</p>}/>
     </div>
   )
 }

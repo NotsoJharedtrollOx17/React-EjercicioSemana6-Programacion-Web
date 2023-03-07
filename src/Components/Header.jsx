@@ -1,13 +1,13 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import '../Styling/Header.css';
-//TODO import logo from '../imagen.jpg';
-//TODO into <img src={logo} className="Header-logo" alt="logo"/>
+import logo from '../images/github_logo.png';
 
 function Header() {
     return(
         <div>
             <header className='Header-header'>
+                <img src={logo} className="Header-logo" alt="logo"/>
             </header>
         </div>
     )
