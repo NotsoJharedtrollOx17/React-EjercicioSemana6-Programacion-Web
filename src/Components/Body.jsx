@@ -7,11 +7,10 @@ import '../Styling/Body.css';
 //componente en forma de clase
 class Body extends Component {
     render () {
-
-
         function alertButton() {
-            return alert("Hola mundo desde el Botón");
+            return alert("Presionaste el botón");
         }
+        
         return (
             <div className='Body'>
                 <p>{this.props.practica}</p>

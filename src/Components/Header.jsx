@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import '../Styling/Header.css';
 import logo from '../images/github_logo.png';
+import '../Styling/Header.css';
 
 function Header() {
     return(

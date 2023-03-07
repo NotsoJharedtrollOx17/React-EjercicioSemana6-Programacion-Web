@@ -15,6 +15,7 @@ function App() {
   ];
 
   return (
+    //Utilización de los props
     <div className="App">
           <Banner texto="Texto 1"/>
           <Header/>
@@ -25,4 +26,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
