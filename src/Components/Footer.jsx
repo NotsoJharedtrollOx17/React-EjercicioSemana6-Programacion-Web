@@ -2,10 +2,10 @@ import React from "react";
 import PropTypes from 'prop-types';
 import '../Styling/Footer.css';
 
-function Footer({props}) {
+function Footer({etiquetahtml}) {
     return(
         <div className="Footer">
-            { props.etiquetahtml }
+            { etiquetahtml }
         </div>
     )
 }
