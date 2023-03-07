@@ -3,7 +3,7 @@
 }
 
 .Header-header {
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.84);
     min-height: 15vh;
     display: flex;
     flex-direction: column;
