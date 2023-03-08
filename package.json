@@ -1,5 +1,4 @@
 {
-  "homepage": "https://github.com/NotsoJharedtrollOx17/React-EjercicioSemana6-Programacion-Web",
   "name": "ejercicio-semana6",
   "private": true,
   "version": "0.0.0",
@@ -13,7 +12,6 @@
   },
   "dependencies": {
     "bootstrap": "^5.2.3",
-    "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-bootstrap": "^2.7.2",
     "react-dom": "^18.2.0"
@@ -22,6 +20,7 @@
     "@types/react": "^18.0.27",
     "@types/react-dom": "^18.0.10",
     "@vitejs/plugin-react": "^3.1.0",
+    "gh-pages": "^5.0.0",
     "vite": "^4.1.0"
   }
 }
